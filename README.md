@@ -2,7 +2,7 @@
 
 
 * The purpose of this analysis is to assess the accuracy and dependency of this logistic regression model.
-* Explain what financial information the data was on, and what you needed to predict.
+
 * The financial information was a dataset of 77,536 rows and 8 different columns.
 * The variables were :
   -loan size
